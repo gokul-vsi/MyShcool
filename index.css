@@ -26,12 +26,12 @@
     background-color: rgb(161, 221, 112);
 }
 .hero-2{
-    margin-top: 80%;
+    margin-top: 60%;
     margin-left: 40%;
 }
 @media (max-width: 768px) {
     .hero-2 {
-        margin-top: 10%;
+        margin-top: 5%;
         margin-left: 0px;
     }
     .hero-1{
