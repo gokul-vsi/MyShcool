@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-btn{
+    all: unset;
+    padding: 8px 12px;
+    border: 1px solid #7AB2D3;
+    background-color: #7AB2D3;
+    color: #fff;
+    border-radius: 5px;
+}
+.hero-section{
+    background-color: rgb(255, 240, 229);
+}
+.hero-1{
+    margin-top: 14%;
+}
+.hero-txt{
+    margin-top: 14%;
+}
+.hero-btn{
+    all: unset;
+    padding:13px 35px;
+    border-radius: 5px;
+    background-color: rgb(161, 221, 112);
+}
+.hero-2{
+    margin-top: 80%;
+    margin-left: 40%;
+}
+@media (max-width: 768px) {
+    .hero-2 {
+        margin-top: 20%;
+        margin-left: 0px;
+    }
+    .hero-1{
+        margin-right: 0px !important;
+    }
+}
