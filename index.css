@@ -10,6 +10,11 @@
     color: #fff;
     border-radius: 5px;
 }
+.nav-btn:hover{
+    background-color: #fff;
+    border-color: #7AB2D3;
+    color: #7AB2D3;
+}
 .hero-section{
     background-color: rgb(255, 240, 229);
 }
@@ -25,6 +30,7 @@
     padding:13px 35px;
     border-radius: 5px;
     background-color: rgb(161, 221, 112);
+    color: #fff;
 }
 .hero-2{
     margin-top: 60%;
@@ -41,4 +47,29 @@
     .hero-txt{
         font-size: 2.5rem !important;
     }
+}
+.hero-sec-p{
+    color: #F96E2A;
+    font-weight: bolder;
+}
+.icon1{
+    background-color: #FC8F54;
+}
+.icon2{
+    background-color: #CB9DF0;
+}
+.icon3{
+    background-color: #88C273;
+}
+.icon4{
+    background-color: #80C4E9;
+}
+.card{
+    border: 1px solid #ccc;
+    width:285px;
+    height: 85px;
+    border-radius: 5px;
+}
+.mar{
+    margin-right: 15% !important;
 }
