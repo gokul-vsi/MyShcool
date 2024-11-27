@@ -52,8 +52,15 @@
     color: #F96E2A;
     font-weight: bolder;
 }
+.hero-btn-1{
+    all: unset;
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
 .icon1{
     background-color: #FC8F54;
+    width: 250% !important;
 }
 .icon2{
     background-color: #CB9DF0;
@@ -64,12 +71,15 @@
 .icon4{
     background-color: #80C4E9;
 }
-.card{
+.main-box{
     border: 1px solid #ccc;
-    width:285px;
-    height: 85px;
-    border-radius: 5px;
+    width: 270px;
+    height: 80px;
+   border-radius: 5px;
 }
 .mar{
     margin-right: 15% !important;
+}
+.sec-p{
+    margin-bottom: 5% !important;
 }
